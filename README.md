@@ -1,1 +1,7 @@
-# 2024-Spring-WebServerProgramming
+# 2024-Spring-WebServerProgramming for Henry Becker
+
+ ![image](https://github.com/Nerkled/2024-Spring-WebServerProgramming/assets/125415992/43ee8745-aa74-4460-b517-599174cde82f)
+
+  Hello my name is **Henry Becker**, when it comes to computer experience my job at home is IT for a company called ACLD(https://www.acld.org/). The mission of ACLD is “Providing Vital Support To Individuals and Their Families”. Some of the jobs I have done working there consist of Server Maintenance, basic ticket requests, power shell scripting for company-wide changes, laptop/ desktop fixes, etc. My major is computer science, the classes I have taken under the major: CS1, CS2, CS3, Web Design, Assembly Language, and Object Oriented Programming. Throughout this break I have been gaining an interest in C++ to maybe venture into making some video games. For projects I have made a pretty beginner website for myself that still is not totally finished but here it is: https://nerkled.github.io/projectwebsite-hb/. I have been collaborating with one of my friends to make a website for my band, however that is not finished yet. 
+
+  I am excited for this class for multiple reasons, the first being its seemingly very direct application to real world web development which is something I could see myself doing in the future. This class will probably make my workflow way better on getting started on my own projects and also for possible future jobs. Also learning about more than just css and html will definitely be huge for my understanding of the web development field. I see myself finally having the ability to build more challenging websites and having the drive to do so. 
