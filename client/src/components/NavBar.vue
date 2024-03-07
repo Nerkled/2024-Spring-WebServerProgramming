@@ -33,6 +33,10 @@ function toggleMenu() {
         Documentation
       </RouterLink>
 
+      <RouterLink to="/products" class="navbar-item">
+        Products
+      </RouterLink>
+
       <a class="navbar-item">
         Documentation
       </a>
