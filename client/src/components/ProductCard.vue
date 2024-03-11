@@ -36,5 +36,24 @@ const emit = defineEmits<{
 </template>
 
 <style scoped>
+    .card {
+            flex-basis: 15rem;
+            flex-grow: 1;
+            margin: .5rem;
+        }
+        h3 {
+            font-weight: bold;
+        }
+        .price {
+            font-weight: bold;
+            font-size: xx-large;
+            color: bisque;
+            float: right;
+        }
+        .cart li {
+            list-style: none;
+            display: flex;
+
+        }
 
 </style>
